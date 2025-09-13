@@ -1,0 +1,5 @@
+Python is powerful.
+Learning it is fun.
+I am practicing file handling.
+This task is easy to follow.
+Let's finish it successfully.
